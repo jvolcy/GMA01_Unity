@@ -1,0 +1,6 @@
+Orbs: https://www.pngwing.com/en/free-png-ztqso
+
+For AVC322 we might:
+	- omit the prefab... just replicate the bubble
+	- make the walls a single sprite to avoid the sprite tiling/collider shape complication
+	- possibly pre-slice the orbs sprite sheet if we don't want that complication initially
